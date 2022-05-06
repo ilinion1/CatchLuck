@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Catch Luck</string>
+    <string name="facebook_app_id">432338562035811</string>
+    <string name="settings">Set the difficulty of the game.
+        \n\nIn higher difficulty, you need to \n\nhit from a greater distance.</string>
+    <string name="info1">The game is to\nkick the ball</string>
+    <string name="info4">Good game my friend.\nLet everything fly to nine)</string>
+    <string name="info3">Score and earn points that\n can be viewed in the score history!</string>
+    <string name="info2">You can increase the difficulty \nand then you will shoot from a greater distance,
+        \nand it will be harder to score!</string>
+</resources>
