@@ -10,14 +10,14 @@
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
-        android:name=".presentation.MyApplication"
+        android:name="de.stollenmayer.philipp.Pop_1_1_Androi.presentation.MyApplication"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:usesCleartextTraffic="true"
         android:supportsRtl="true"
         android:theme="@style/Theme.CatchLuck">
         <activity
-            android:name=".presentation.activity.LoadActivity"
+            android:name="de.stollenmayer.philipp.Pop_1_1_Androi.presentation.activity.LoadActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -25,12 +25,12 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".presentation.activity.SecondsActivity"
+            android:name="de.stollenmayer.philipp.Pop_1_1_Androi.presentation.activity.SecondsActivity"
             android:configChanges="orientation|screenSize"
             android:exported="false"
             android:windowSoftInputMode="adjustResize" />
         <activity
-            android:name=".presentation.activity.MenuActivity"
+            android:name="de.stollenmayer.philipp.Pop_1_1_Androi.presentation.activity.MenuActivity"
             android:exported="false">
         </activity>
 

@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".presentation.activity.SecondsActivity">
+    tools:context="de.stollenmayer.philipp.Pop_1_1_Androi.presentation.activity.SecondsActivity">
 
     <WebView
         android:id="@+id/webView"
